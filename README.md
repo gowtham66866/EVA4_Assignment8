@@ -20,6 +20,8 @@ Achieve 85% accuracy, with no limit on no of parameters - Done
 All the code is split and individual modules are called upon for execution - Done
 
 Model Summary
+![image](https://user-images.githubusercontent.com/36323558/82764166-76f7fc80-9e2a-11ea-8fea-4bbc1bd670f8.png)
+
 
 
 
