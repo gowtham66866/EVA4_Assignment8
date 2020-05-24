@@ -25,6 +25,7 @@ Result Summary
 
 Result Visualizations
 The following image gives an idea of which model seems to achieve the best Validation Accuracy.
+![image](https://user-images.githubusercontent.com/36323558/82764391-f0441f00-9e2b-11ea-914c-382ce643cdb8.png)
 Validation Accuracy
 ![image](https://user-images.githubusercontent.com/36323558/82764314-66945180-9e2b-11ea-835e-3a66447cb9d9.png)
 Validation Loss
